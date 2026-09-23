@@ -1,0 +1,1 @@
+{"final_accuracy": 0.76325, "rounds": 15, "client_skew": [0.0, 0.816, 1.0, 1.0, 1.0], "note": "accuracy plateaued near the overall attack rate (~76%), suggesting the model collapsed toward predicting the majority class under extreme non-IID conditions"}
